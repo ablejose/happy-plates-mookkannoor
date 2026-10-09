@@ -1,0 +1,58 @@
+{
+  "slug": "happy-plates-mookkannoor",
+  "name": "Happy Plates",
+  "shortName": "Happy Plates",
+  "descriptor": "Catering & Events",
+  "address": "Kidangoor, Angamaly, Mookkannoor Ezhattumugham Rd, kavala, Mookkannoor, Keralam 683577",
+  "area": "kavala",
+  "city": "Mookkannoor",
+  "district": "Ernakulam",
+  "region": "Kerala",
+  "postalCode": "683577",
+  "geo": {
+    "lat": 10.212971699999999,
+    "lng": 76.3974825
+  },
+  "mapsLink": "https://maps.google.com/?cid=130601959483373029",
+  "phone": "+91 99461 08934",
+  "whatsapp": "919946108934",
+  "hours": "Open 7 am – 10 pm · all days",
+  "opens": "07:00",
+  "closes": "22:00",
+  "rating": 4.9,
+  "reviewCount": 81,
+  "reviews": [
+    {
+      "name": "Angel Rose Martin",
+      "rating": 5,
+      "quote": "Simply the best caterers in Angamaly serving the best food with the best service and hospitality. Kudos to the team. Great Work guys ❤️"
+    },
+    {
+      "name": "AFSAL Nazeer",
+      "rating": 5,
+      "quote": "Happy Plates catering exceeded expectations! Their delicious dishes and impeccable service made our event a huge success. Highly recommend for anyone looking for top-quality catering. A must-try for your next event!"
+    },
+    {
+      "name": "Anose Sajan",
+      "rating": 5,
+      "quote": "We had an excellent experience with the team Happy plates. I have contacted them for nephews birthday celebration.The food was fresh , flavourful and beautifully presented.All our guests loved it. Highly recommended for any events. Felt like it was best catering service providers in kochi which i have recently gone through."
+    },
+    {
+      "name": "Sona Davis",
+      "rating": 5,
+      "quote": "Outstanding catering by team happy plates. From the menu planning to the execution, every step was flawless. The food was not only delicious but also beautifully presented, adding an extra touch of elegance to our event. Our guests were thoroughly impressed, and we couldn't be happier with the service. Highly recommended for any occasion!"
+    },
+    {
+      "name": "Liju George Mathew",
+      "rating": 5,
+      "quote": "We had a birthday function at our home. Outstanding service provided by 'Happy plates' team. Food was good & tasty!! The same feedback was shared by our guests too. All of them liked it. We look forward for any future orders to 'Happy plates'. Thanks again - Soji chettan & team!!"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp"
+  ],
+  "url": "https://happy-plates-mookkannoor.vercel.app"
+}
